@@ -1,0 +1,25 @@
+.remove-btn {
+    font-size: medium;
+    color: red;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+#container-list li{
+    padding: 4px;}
+
+#container {
+    background-color: rgb(156, 39, 156);
+    height: 100%;
+    width: 20%;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: plum;
+}
